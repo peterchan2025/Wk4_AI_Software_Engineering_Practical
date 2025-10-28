@@ -1,0 +1,4 @@
+AI-assisted testing tools like Selenium with AI plugins help identify edge cases faster and expand coverage automatically. 
+Instead of manually writing repetitive login tests, AI can suggest variations (e.g., invalid usernames, missing passwords). 
+This saves time and reduces human error. Compared to manual testing,
+ AI tools ensure broader and more consistent validation of user input scenarios.

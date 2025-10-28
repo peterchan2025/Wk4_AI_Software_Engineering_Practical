@@ -1,0 +1,4 @@
+The predictive model might inherit bias from the dataset if certain user groups or scenarios are underrepresented. 
+For instance, data from only one region or team could mislead predictions.
+ Tools like IBM AI Fairness 360 can help detect and mitigate bias by analyzing feature importance and performance across subgroups. 
+By ensuring balanced datasets and applying fairness checks, AI systems can make more ethical and inclusive decisions.

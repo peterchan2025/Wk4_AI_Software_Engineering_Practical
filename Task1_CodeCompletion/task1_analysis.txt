@@ -1,0 +1,12 @@
+
+Both the manual and AI-generated versions correctly 
+sort a list of dictionaries by a given key. 
+The manual version is more concise and directly uses Python’s sorted() function, 
+which does not modify the original list. The AI-generated code uses list.sort(), 
+which is in-place and slightly faster for large datasets. 
+However, it includes error handling using try/except, which adds robustness. 
+The AI code demonstrates intelligent use of Python’s get() method,
+ ensuring that missing keys don’t crash the program.
+  Overall, the AI-generated version is more defensive, while my manual version is more readable.
+   In practical software engineering, AI-assisted code helps speed up development but still
+ requires human review for optimization and clarity.
